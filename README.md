@@ -5,4 +5,10 @@ I've designed my Convolutional Neural Network (CNN) code to be accessible for be
 1.Classification Problem using CNN
 notebook: Dog_v_s_Cat_Classification_using_CNN.ipynb
 
+2.LeNET
+notebook: LeNET_5_CNN_Tensorflow.ipynb
+
+3.AlexNET
+notebook: AlexNET_CNN_Tensorflow.ipynb
+
 note:- This repository is under heavy construction.

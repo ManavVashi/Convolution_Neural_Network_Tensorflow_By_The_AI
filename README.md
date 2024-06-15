@@ -6,10 +6,10 @@
 1. Classification Problem using CNN
 * notebook: Dog_v_s_Cat_Classification_using_CNN.ipynb
 
-2.LeNET-5
+2. LeNET-5
 * notebook: LeNET_5_CNN_Tensorflow.ipynb
 
-3.AlexNET
+3. AlexNET
 * notebook: AlexNET_CNN_Tensorflow.ipynb
 
 Note: Datasets are available in the Notebook itself.
